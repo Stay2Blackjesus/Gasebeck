@@ -44,7 +44,7 @@ li a:hover {                                        /* Navbar content when hever
 .title {                                            /* Header */
     display: block;
     background-color: rgb(63, 63, 63);
-    margin-top: 30px;
+    margin-top: 1.8%;
     padding: 0;
     height: 135px;
     text-align: center;
@@ -176,7 +176,6 @@ h3.g_s {                                        /* "Gåsebäck" */
     border: 6px ridge rgb(155, 155, 155);
 }
 
-
 footer {                                        /* style for footer */
   text-align: center;
   padding: 0.5px;
@@ -184,6 +183,7 @@ footer {                                        /* style for footer */
   background-color: rgb(63, 63, 63);
   color: rgb(255, 255, 255);
   margin: 0;
+  margin-top: 5%;
 }
 
 .tiny {
