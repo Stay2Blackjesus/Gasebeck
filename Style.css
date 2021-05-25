@@ -229,24 +229,9 @@ footer {                                        /* style for footer */
 
 .Sanering-grid{
         display: grid;
-        grid-template-columns: repeat(20,5%);
-        grid-template-rows: repeat(23, 40px);
+        grid-template-columns: repeat(200,5%);
+        grid-template-rows: repeat(1, 40px);
 }
-
-@media (max-width: 1123px) {
-    .Sanering-grid { grid-template-rows: repeat(26, 40px);}
-}
-
-@media (max-width: 870px) {
-    .Sanering-grid { grid-template-rows: repeat(30, 40px);}
-}
-
-@media (max-width: 681px) {
-    .Sanering-grid { grid-template-rows: repeat(34, 40px);}
-}
-
-
-
 
 .grid-box11{
     margin: 0px;
